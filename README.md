@@ -21,13 +21,10 @@ Replication package for 'Testing the Endogeneity of a Spatial Weight Matrix in t
 # Some Notes
 info = struct('n',n,'t',t,'rmin',0,'rmax',1,'lflag',0,'tl',1,'stl',1,'tlz',1,'tly',0); 
 
-tl means if we include time lag of Y in the main equation.
-
-stl means if we include spatial time lag of Y in the main equation.
-
-tlz means if we include time lag of Z in the auxiliary equation.
-
-tly means if we include time lag of Y in the auxiliary equation.
+tl means if we include time lag of Y in the main equation. <br>
+stl means if we include spatial time lag of Y in the main equation. <br>
+tlz means if we include time lag of Z in the auxiliary equation. <br>
+tly means if we include time lag of Y in the auxiliary equation. <br>
 
 
 # Questions
