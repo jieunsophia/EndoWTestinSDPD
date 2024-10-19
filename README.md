@@ -34,5 +34,5 @@ tly means if we include time lag of Y in the auxiliary equation.
 If you have any questions, please feel free to reach me out (jieun.lee@emory.edu; jieunlee.sophia@gmail.com). I'm happy to answer your questions.
 
 
-Thank you,
+Thank you,\\
 Jieun Lee
